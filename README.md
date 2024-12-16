@@ -25,6 +25,18 @@ This Python library provides a flexible and extensible search solution using the
 
 ## Installation
 
+### 1. Clone the Repository
+
+```bash
+# Clone the repository
+git clone https://github.com/sujalrajpoot/IsouAI-Search-Provider.git
+
+# Navigate to the project directory
+cd IsouAI-Search-Provider
+```
+
+### 2. Install Dependencies
+
 ```bash
 pip install requests
 ```
